@@ -69,7 +69,7 @@ export function Navbar() {
             <button 
               onClick={() => {
                 window.open(
-                  "https://wa.me/8882455888?text=Hello%20I%20want%20to%20connect",
+                  "https://wa.me/918882455888?text=Hello%20I%20want%20to%20connect",
                   "_blank"
                 )
               }}
