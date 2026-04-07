@@ -90,7 +90,7 @@ export function Footer() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://wa.me/888255888?text=Hello%20I%20want%20to%20become%20a%20dealer" target="_blank" className="hover:text-primary transition-colors">
+                  <Link href="https://wa.me/8882455888?text=Hello%20I%20want%20to%20become%20a%20dealer" target="_blank" className="hover:text-primary transition-colors">
                     Become a Dealer
                   </Link>
                 </li>
@@ -141,7 +141,7 @@ export function Footer() {
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone className="text-primary flex-shrink-0" size={18} />
-                  <span>882455888</span>
+                  <span>8882455888</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="text-primary flex-shrink-0" size={18} />
