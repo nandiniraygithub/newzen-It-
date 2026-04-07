@@ -5,7 +5,7 @@ import React from "react";
 
 export function MarqueeSection() {
   return (
-    <div className="w-full rounded-tr-3xl rounded-tl-3xl overflow-hidden bg-[#212121]  py-20">
+    <div className="w-full rounded-tr-3xl rounded-tl-3xl overflow-hidden bg-[#212121] py-8 sm:py-12 md:py-20">
 
       <div className="border-t border-b border-[#f1f1f1] flex whitespace-nowrap overflow-hidden">
 

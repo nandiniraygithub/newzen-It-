@@ -92,7 +92,7 @@ export function ProductCategories() {
                   </AnimatePresence>
 
                   {/* BUTTON */}
-                  {/* <motion.button
+                  <motion.button
                     whileHover={{ scale: 1.1 }}
                     onMouseEnter={() => {
                       console.log('Hovering product:', i);
@@ -102,10 +102,10 @@ export function ProductCategories() {
                       console.log('Unhovering product:', i);
                       setHovered(null);
                     }}
-                    className="w-14 h-14 bg-white rounded-full flex items-center justify-center text-black"
+                    className="w-14 h-14 bg-white rounded-full flex items-center justify-center text-black pt-0 sm:pt-0"
                   >
                     <ArrowUpRight size={20} />
-                  </motion.button> */}
+                  </motion.button>
                 </div>
               </motion.div>
 
