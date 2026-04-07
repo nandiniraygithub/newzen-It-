@@ -1,0 +1,28 @@
+{
+  "name": "Newzen IT - Sales & Purchase of IT Products",
+  "short_name": "Newzen IT",
+  "description": "Premium IT products supplier - Apple, Lenovo, Acer, Logitech, VU. Wholesale and corporate orders available.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f1f1",
+  "theme_color": "#004d43",
+  "orientation": "portrait-primary",
+  "categories": ["business", "technology", "shopping"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch icon"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Homepage
+Allow: /
+
+# About page
+Allow: /about
+
+# Sitemap
+Sitemap: https://newzen-it.com/sitemap.xml
+
+# Block common non-content paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /favicon.ico
+Disallow: /icon.svg
