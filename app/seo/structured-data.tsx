@@ -108,7 +108,7 @@ export const localBusinessStructuredData = {
   "name": "Newzen IT",
   "description": "IT products sales and purchase specialist offering wholesale and corporate solutions for Apple, Lenovo, Acer, Logitech, VU products.",
   "url": "https://newzen-it.com",
-  "telephone": "+91-XXXXXXXXXX",
+  "telephone": "+91-8882455888",
   "email": "newzen.it18@gmail.com",
   "address": {
     "@type": "PostalAddress",
@@ -120,7 +120,7 @@ export const localBusinessStructuredData = {
     "longitude": "78.9629"
   },
   "openingHours": "Mo-Fr 09:00-18:00",
-  "priceRange": "$$",
+
   "paymentAccepted": ["Cash", "Credit Card", "Bank Transfer"],
   "currenciesAccepted": "INR"
 }
